@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CollaborativeProjectIIforza Palermo
 texr
 =======
@@ -15,3 +16,12 @@ texr
 =======
 Proviamo a ripulire tutto
 >>>>>>> 02c13382675fce6b2f9fd98a8a26d3201724af54
+=======
+# CollaborativeProjectII
+"Forza Napoli! -Elisa" 
+
+ Provo ad inserire
+=======
+Proviamo a ripulire tutto
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 8e6960339737ec59c5088600ade54de6c46821cf
