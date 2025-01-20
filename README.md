@@ -1,10 +1,7 @@
-SECONDA PULIZIA
-Aggiungo testo
-"Ciaone" 
-"Ciaone" 
-"Ciaone" 
-"Ciao" 
-Scrivo
-Obiettivo del progetto
- Questo progetto mi fa impazzire.
- Aggiunta da Giulia
+## Obiettivo del progetto
+Questo progetto mi fa impazzire.
+Aggiunta da Giulia.
+
+Questo progetto serve per apprendere Git e GitHub in un
+contesto collaborativo.
+Aggiunta da Mariachiara.
