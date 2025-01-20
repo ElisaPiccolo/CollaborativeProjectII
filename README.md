@@ -1,3 +1,7 @@
-# CollaborativeProjectII
-"Forza Napoli! -Elisa" 
-"Buongiorno team! -Elisa" 
+SECONDA PULIZIA
+Aggiungo testo
+"Ciaone" 
+"Ciaone" 
+"Ciaone" 
+"Ciao" 
+Scrivo
